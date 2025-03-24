@@ -1,4 +1,4 @@
-| [home page](https://gabehafemann.github.io/gis/README.md) | [in-class examples](in-class-examples) | [homework](homeworks) | [dataviz portfolio](https://gabehafemann.github.io/dataviz/) | [GIS Samples](GIS-Samples) | [LinkedIn](https://www.linkedin.com/in/gabe-hafemann/)
+| [home page](https://gabehafemann.github.io/gisportfolio) | [in-class examples](in-class-examples) | [homework](homeworks) | [dataviz portfolio](https://gabehafemann.github.io/dataviz/) | [GIS Samples](GIS-Samples) | [LinkedIn](https://www.linkedin.com/in/gabe-hafemann/)
 
 # GIS Portfolio
 Hello! My name's Gabe (they/them) and I'm a graduate student in Public Policy and Management at Carnegie Mellon University. I'm studying data visualization and Geographic Information Systems. This is my portfolio!
